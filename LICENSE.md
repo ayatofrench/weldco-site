@@ -1,2 +1,2 @@
 
-Copyright (C) 2020 Ayato French
+Copyright (C) 2020 Weldco Sales, Inc
